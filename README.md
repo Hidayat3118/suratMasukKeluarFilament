@@ -10,7 +10,7 @@
 Ini adalah website untuk mengelola surat masuk surat keluar menggunakan laravel filament untuk dashboardnya
 
 ## gambar login
-![Tampilkan Project](./github/login.png)
+![Tampilkan Project](./github/login.PNG)
 
 ## gambar dashboard
 ![Tampilkan Project](./github/dashboard.png)
@@ -19,7 +19,7 @@ Ini adalah website untuk mengelola surat masuk surat keluar menggunakan laravel 
 ![Tampilkan Project](./github/surat.png)
 
 ## gambar pengesah
-![Tampilkan Project](./github/pengesah.png)
+![Tampilkan Project](./github/pengesah.PNG)
 
 ## gambar penerbit
 ![Tampilkan Project](./github/penerbit.png)
