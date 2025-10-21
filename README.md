@@ -23,37 +23,48 @@
 
 ## Sistem Pengelolaan Surat Masuk & Surat Keluar
 
-Aplikasi ini dibangun menggunakan **Laravel** dengan integrasi **Laravel Filament** sebagai dashboard admin, sistem ini dirancang untuk membantu instansi/organisasi dalam mengelola proses administrasi surat masuk dan surat keluar secara lebih efisien dan terstruktur.  
+Aplikasi ini dibangun menggunakan **Laravel** dengan integrasi **Laravel Filament** sebagai dashboard admin, sistem ini dirancang untuk membantu instansi/organisasi dalam mengelola proses administrasi surat masuk dan surat keluar secara lebih efisien dan terstruktur.
 
 ### Fitur Utama
-- **Manajemen Surat Masuk** → mencatat, menyimpan, dan menampilkan data surat masuk.  
-- **Manajemen Surat Keluar** → membuat dan mengelola surat keluar dengan mudah.  
-- **Manajemen Pengesah & Penerbit** → mencatat data pejabat atau pihak yang terkait dengan surat.  
-- **Dashboard Filament** → tampilan admin modern dengan kemudahan akses dan pengelolaan data.  
-- **Autentikasi User** → login aman untuk admin/petugas.  
+
+-   **Manajemen Surat Masuk** → mencatat, menyimpan, dan menampilkan data surat masuk.
+-   **Manajemen Surat Keluar** → membuat dan mengelola surat keluar dengan mudah.
+-   **Manajemen Pengesah & Penerbit** → mencatat data pejabat atau pihak yang terkait dengan surat.
+-   **Dashboard Filament** → tampilan admin modern dengan kemudahan akses dan pengelolaan data.
+-   **Autentikasi User** → login aman untuk admin/petugas.
 
 ---
 
-## Screenshots 
+## Screenshots
 
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <strong>Popular Page</strong><br><br>
+      <strong>Login Page</strong><br><br>
       <img src="./github/login.PNG" width="95%" alt="Home">
     </td>
     <td align="center" width="50%">
-      <strong>Top Rated Page</strong><br><br>
+      <strong>Surat Page</strong><br><br>
       <img src="./github/surat.png" width="95%" alt="Login">
+    </td>
+  </tr>
+   <tr>
+    <td align="center" width="50%">
+      <strong>Dashboard Page</strong><br><br>
+      <img src="./github/dashboard.png" width="95%" alt="Home">
+    </td>
+    <td align="center" width="50%">
+      <strong>Top Rated Page</strong><br><br>
+      <img src="./github/create.PNG" width="95%" alt="Login">
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <strong>Serch Movie</strong><br><br>
+      <strong>Pengesah Page</strong><br><br>
       <img src="./github/pengesah.PNG" width="95%" alt="Dashboard">
     </td>
     <td align="center" width="50%">
-      <strong>Upcoming Page</strong><br><br>
+      <strong>Penerbit Page</strong><br><br>
       <img src="./github/penerbit.PNG" width="95%" alt="Detail Seminar">
     </td>
   </tr>
@@ -63,17 +74,19 @@ Aplikasi ini dibangun menggunakan **Laravel** dengan integrasi **Laravel Filamen
 ---
 
 ## ⚙️ Teknologi yang Digunakan
-- [Laravel 11+](https://laravel.com/) – Framework utama
-- [Laravel Filament](https://filamentphp.com/) – Dashboard admin
-- MySQL / MariaDB – Database
-- TailwindCSS – Styling
-- PHP 8+  
+
+-   [Laravel 11+](https://laravel.com/) – Framework utama
+-   [Laravel Filament](https://filamentphp.com/) – Dashboard admin
+-   MySQL / MariaDB – Database
+-   TailwindCSS – Styling
+-   PHP 8+
 
 ---
 
 ## 🚀 Cara Menjalankan Project
 
-1. Clone repository  
-   ```bash
-   git clone https://github.com/username/nama-project.git
-   cd nama-project
+1. Clone repository
+    ```bash
+    git clone https://github.com/username/nama-project.git
+    cd nama-project
+    ```
