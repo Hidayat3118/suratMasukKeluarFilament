@@ -21,36 +21,44 @@
 
 ---
 
-# 📌 Sistem Pengelolaan Surat Masuk & Surat Keluar
+## Sistem Pengelolaan Surat Masuk & Surat Keluar
 
-Aplikasi ini dibangun menggunakan **Laravel** dengan integrasi **Laravel Filament** sebagai dashboard admin.  
-Sistem ini dirancang untuk membantu instansi/organisasi dalam mengelola proses administrasi surat masuk dan surat keluar secara lebih efisien dan terstruktur.  
+Aplikasi ini dibangun menggunakan **Laravel** dengan integrasi **Laravel Filament** sebagai dashboard admin, sistem ini dirancang untuk membantu instansi/organisasi dalam mengelola proses administrasi surat masuk dan surat keluar secara lebih efisien dan terstruktur.  
 
-### ✨ Fitur Utama
-- 📥 **Manajemen Surat Masuk** → mencatat, menyimpan, dan menampilkan data surat masuk.  
-- 📤 **Manajemen Surat Keluar** → membuat dan mengelola surat keluar dengan mudah.  
-- 👥 **Manajemen Pengesah & Penerbit** → mencatat data pejabat atau pihak yang terkait dengan surat.  
-- 📊 **Dashboard Filament** → tampilan admin modern dengan kemudahan akses dan pengelolaan data.  
-- 🔐 **Autentikasi User** → login aman untuk admin/petugas.  
+### Fitur Utama
+- **Manajemen Surat Masuk** → mencatat, menyimpan, dan menampilkan data surat masuk.  
+- **Manajemen Surat Keluar** → membuat dan mengelola surat keluar dengan mudah.  
+- **Manajemen Pengesah & Penerbit** → mencatat data pejabat atau pihak yang terkait dengan surat.  
+- **Dashboard Filament** → tampilan admin modern dengan kemudahan akses dan pengelolaan data.  
+- **Autentikasi User** → login aman untuk admin/petugas.  
 
 ---
 
-## 📸 Screenshots
+## Screenshots 
 
-### 🔑 Login Page
-![Tampilkan Project](./github/login.PNG)
-
-### 📊 Dashboard
-![Tampilkan Project](./github/dashboard.png)
-
-### 📥 Surat Masuk & Surat Keluar
-![Tampilkan Project](./github/surat.png)
-
-### 👤 Pengesah
-![Tampilkan Project](./github/pengesah.PNG)
-
-### 🏢 Penerbit
-![Tampilkan Project](./github/penerbit.PNG)
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <strong>Popular Page</strong><br><br>
+      <img src="./github/login.PNG" width="95%" alt="Home">
+    </td>
+    <td align="center" width="50%">
+      <strong>Top Rated Page</strong><br><br>
+      <img src="./github/surat.png" width="95%" alt="Login">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>Serch Movie</strong><br><br>
+      <img src="./github/pengesah.PNG" width="95%" alt="Dashboard">
+    </td>
+    <td align="center" width="50%">
+      <strong>Upcoming Page</strong><br><br>
+      <img src="./github/penerbit.PNG" width="95%" alt="Detail Seminar">
+    </td>
+  </tr>
+  
+</table>
 
 ---
 
