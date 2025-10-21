@@ -54,7 +54,7 @@ Aplikasi ini dibangun menggunakan **Laravel** dengan integrasi **Laravel Filamen
       <img src="./github/dashboard.png" width="95%" alt="Home">
     </td>
     <td align="center" width="50%">
-      <strong>Top Rated Page</strong><br><br>
+      <strong>Create Surat</strong><br><br>
       <img src="./github/create.PNG" width="95%" alt="Login">
     </td>
   </tr>
