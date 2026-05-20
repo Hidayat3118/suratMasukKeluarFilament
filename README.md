@@ -85,17 +85,17 @@ Aplikasi ini dibangun menggunakan **Laravel** dengan integrasi **Laravel Filamen
 
 ## 🚀 Cara Menjalankan Project
 
-1. Clone repository
+##  Instalasi & Setup
     ```bash
-https://github.com/Hidayat3118/suratMasukKeluarFilament.git
-cd SemMeet
-composer install
-npm install
-cp .env.example .env
-php artisan key:generate
-php artisan migrate
-php artisan db:seed
-php artisan storage:link
-php artisan serve
-npm run dev
+    https://github.com/Hidayat3118/SemMeet.git
+    cd SemMeet
+    composer install
+    npm install
+    cp .env.example .env
+    php artisan key:generate
+    php artisan migrate
+    php artisan db:seed
+    php artisan storage:link
+    php artisan serve
+    npm run dev
     ```
